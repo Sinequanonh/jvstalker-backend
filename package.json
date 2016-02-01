@@ -1,7 +1,7 @@
 {
-  "name": "jvstalker",
+  "name": "jvstalker-backend",
   "version": "1.0.0",
-  "description": "JvStalker, moteur de recherche pour les forums de jeuxvideo.com",
+  "description": "JvStalker backend side, moteur de recherche pour les forums de jeuxvideo.com",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sinequanonh/jvstalker.git"
+    "url": "https://github.com/Sinequanonh/jvstalker-backend.git"
   },
   "dependencies": {
     "angular-ui-bootstrap": "^1.1.1",

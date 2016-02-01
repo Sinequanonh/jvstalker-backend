@@ -1,5 +1,5 @@
-# JvStalker
+# JvStalker Backend
 JvStalker, moteur de recherche pour les forums de jeuxvideo.com
 
 # Installing the Application
-cd app/ then 'npm install'
+cd to the root folder of the app, then 'npm install' to install dependencies.
