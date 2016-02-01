@@ -18,5 +18,5 @@ mongoose.connect(db.url);
 // Parse the app to json
 app.use(bodyParser.json());
 
-app.listen(8080);
-console.log("App listening to port 8080");
+app.listen(port);
+console.log('App listening to port ' + port);
