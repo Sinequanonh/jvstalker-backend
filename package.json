@@ -1,0 +1,22 @@
+{
+  "name": "jvstalker",
+  "version": "1.0.0",
+  "description": "JvStalker, moteur de recherche pour les forums de jeuxvideo.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Léo Baecker <leo.baecker@epitech.eu>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sinequanonh/jvstalker.git"
+  },
+  "dependencies": {
+    "angular-ui-bootstrap": "^1.1.1",
+    "angular-ui-router": "^0.2.17",
+    "express": "^4.13.4",
+    "mongoose": "^4.3.7"
+  }
+}
